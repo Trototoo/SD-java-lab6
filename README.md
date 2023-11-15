@@ -27,3 +27,7 @@ git clone https://github.com/Trototoo/SD-java-lab1
 ```bash
 gradle run -q --console=plain
 ```
+
+## Class Diagram
+
+![img.png](img.png)
